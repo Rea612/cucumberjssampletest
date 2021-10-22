@@ -59,7 +59,7 @@ Then('some testable outcome is achieved', function () {
 
 Then('something else we can check happens too', function () {
            // Write code here that turns the phrase above into concrete actions
-    assert.strictEqual(1 + 2, 3);
+    assert.strictEqual(1 + 2, 4);
 });
 
 Given('some precondition', function () {
