@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { Given, When, Then } = require('@cucumber/cucumber');
+const { Given, When, Then } = require('cucumber');
 
 Given('a global administrator named {string}', function (string) {
        // Write code here that turns the phrase above into concrete actions
